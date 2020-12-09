@@ -7,4 +7,4 @@
 - **Medium**   : [mdcode2021](https://mdcode2021.medium.com/)
 - **Leetcode** : [mdcode2021](https://leetcode.com/mdcode2021/)
 
-![Visitor Count](https://profile-counter.glitch.me/{myawesomehub}/count.svg) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myawesomehub&label=Profile%20views&color=0e75b6&style=flat" alt="myawesomehub" /> </p>
