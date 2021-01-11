@@ -1,6 +1,6 @@
 ## [Mohammad Yasir](https://www.linkedin.com/in/my-pro-file/)
 
-**Hey there 👋 , I am a Bachlors and Passionate in iOS App Development . I use to solve problems on regular basis and also some of the Advace Algorithms . I love to share some of things about technology by writing , so I write on Medium as a Writer . You can check me on Social Link below to see my works : 👇**
+**Hey there 👋 , I am a Bachlors and Passionate in iOS App Development . I use to solve problems on regular basis and also some of the Advance Algorithms . I love to share some of things about technology by writing , so I write on Medium as a Writer . You can check me on Social Link below to see my works : 👇**
 
 - **Resume** : [Resume](https://drive.google.com/file/d/15Lwmu1eQNFYy5la1xahXyyvDCuG3U7fk/view?usp=sharing)
 - **LinkedIn** : [my-pro-file](https://www.linkedin.com/in/my-pro-file/) 
