@@ -26,16 +26,5 @@
 <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-red" />
 </p>
 
-  
-
-## [Mohammad Yasir](https://www.linkedin.com/in/my-pro-file/)
-
-#### Computer Science Interest :
-Check these links :
-
-- **Resume** : [Resume](https://drive.google.com/file/d/15Lwmu1eQNFYy5la1xahXyyvDCuG3U7fk/view?usp=sharing)
-- **LinkedIn** : [my-pro-file](https://www.linkedin.com/in/my-pro-file/) 
-- **Medium**   : [mdcode2021](https://mdcode2021.medium.com/)
-- **Leetcode** : [mdcode2021](https://leetcode.com/mdcode2021/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myawesomehub&label=Profile%20views&color=0e75b6&style=flat" alt="myawesomehub" /> </p>
