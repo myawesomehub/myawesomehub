@@ -4,6 +4,19 @@
 <p><a href="https://github.com/myawesomehub" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/my-pro-file/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://mdcode2021.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 </p>
 
+<p>
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-red" />
+<img alt="iOS" src="https://img.shields.io/badge/-iOS-green" />
+<img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-lightgrey" />
+<img alt="MVVM" src="https://img.shields.io/badge/-MVVM-yellow" />
+<img alt="iPhone" src="https://img.shields.io/badge/-iPhone-blue" />
+<img alt="MacOS" src="https://img.shields.io/badge/-MacOS-orange" />
+<img alt="iPad" src="https://img.shields.io/badge/-iPad-green" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-red" />
+<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-red" />
+</p>
+
+  
 
 ## [Mohammad Yasir](https://www.linkedin.com/in/my-pro-file/)
 
