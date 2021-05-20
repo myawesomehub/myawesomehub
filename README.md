@@ -1,28 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1>
 
-
-<h3>Technical Interests</h3>
-<p>
-<img alt="Swift" src="https://img.shields.io/badge/-Swift-red" />
-<img alt="iOS" src="https://img.shields.io/badge/-iOS-green" />
-<img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-lightgrey" />
-<img alt="MVVM" src="https://img.shields.io/badge/-MVVM-yellow" />
-<img alt="Git" src="https://img.shields.io/badge/-GIT-green" />
-<img alt="UIKit" src="https://img.shields.io/badge/-UIKit-red" />
-<img alt="VersionControl" src="https://img.shields.io/badge/-VersionControl-orange" />
-<img alt="DS" src="https://img.shields.io/badge/-DS-lightgrey" />
-<img alt="Algorithm" src="https://img.shields.io/badge/-Algorthms-brightgreen" />
-<img alt="MySql" src="https://img.shields.io/badge/-MySQL-red" />
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-lightgrey" />
-<img alt="DBMS" src="https://img.shields.io/badge/-DBMS-blue" />
-<img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-red" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-orange" />
-<img alt="iPhone" src="https://img.shields.io/badge/-iPhone-blue" />
-<img alt="MacOS" src="https://img.shields.io/badge/-MacOS-orange" />
-<img alt="iPad" src="https://img.shields.io/badge/-iPad-green" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-red" />
-<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-red" />
-</p>
+I am **Mohammad Yasir** , a pre-final year cs student. I am an **iOS developer** who develops apps and explore the **cross platform** technologies .
 
 
 <h3>You can find me on</h3>
