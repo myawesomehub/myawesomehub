@@ -9,7 +9,10 @@ I am **Mohammad Yasir** , a pre-final year cs student. I am an **iOS developer**
 - 👨🏻‍💻 I am currently learning advanced swift and swiftUI
 - 🫂 With all , I am also learning reactJS and reactNative 
 
-![Mohammad Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=myawesomehub&show_icons=true&theme=radical)
+![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
+
+
+
 
 
 
