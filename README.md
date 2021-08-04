@@ -4,9 +4,9 @@ I am **Mohammad Yasir** , a pre-final year cs student. I am an **iOS developer**
 
 -----
 
-- 📱 I am currently working on creating iOS Applications 
-- ✍🏻 Also I am Writing article on Development and Algorithm Topics
-- 👨🏻‍💻 I am currently learning advanced swift and swiftUI
+- 📱 I am Creating Applications in Swift for iPhones
+- ✍🏻 I am Writing article on Development and Algorithm Topics on Medium
+- 👨🏻‍💻 Exploring Swift, UIKit and SwiftUI
 - 🫂 With all , I am also learning reactJS and reactNative 
 - 🎥 Also love create youtube tutorials on SwiftUI
 
