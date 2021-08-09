@@ -4,11 +4,11 @@ I am **Mohammad Yasir** , a pre-final year cs student. I am an **iOS developer**
 
 -----
 
-- 📱 I am Creating Applications in Swift for iPhones
-- ✍🏻 I am Writing article on Development and Algorithm Topics on Medium
-- 👨🏻‍💻 Exploring Swift, UIKit and SwiftUI
-- 🫂 With all , I am also learning reactJS and reactNative 
-- 🎥 Also love create youtube tutorials on SwiftUI
+- 📱 Building iPhone Applications
+- ✍🏻 Sharing development and algorithms related content on medium
+- 👨🏻‍💻 Exploring other opportunities 
+- 🫂 Practicing Mathematics and Competative Programmings
+- 🎥 Creating content for youtube channel
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
 
