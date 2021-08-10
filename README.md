@@ -4,6 +4,7 @@ I am **Mohammad Yasir** , a pre-final year cs student. I am an **iOS developer**
 
 -----
 
+- 👨🏻‍💻 iOS Developer Intern @MsquareLabs
 - 📱 Building iPhone Applications
 - ✍🏻 Sharing development and algorithms related content on medium
 - 👨🏻‍💻 Exploring other opportunities 
