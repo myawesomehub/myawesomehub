@@ -7,8 +7,7 @@ I am **Mohammad Yasir** , a pre-final year cs student. I am an **iOS developer**
 - 👨🏻‍💻 iOS Developer Intern @MsquareLabs
 - 📱 Building iPhone Applications
 - ✍🏻 Sharing development and algorithms related content on medium
-- 🫂 Practicing Mathematics and Competative Programmings
-- 🎥 Creating content for youtube channel
+- 🫂 Practicing Problem Solving Skills
 - 👨🏻‍💻 Exploring other opportunities 
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
