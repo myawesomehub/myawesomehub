@@ -1,14 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1>
 
-I am **Mohammad Yasir** , a pre-final year cs student. I am an **iOS developer** who develops apps and explore other **opportunities**.
+Hey, I am **Mohammad Yasir**, a final year student. I am an **iOS Developer** who design and develop apps in swift. I am also writing app design systems for iOS.
 
 -----
 
 - 👨🏻‍💻 iOS Developer Intern @MsquareLabs
-- 📱 Building iPhone Applications
-- ✍🏻 Sharing development and algorithms related content on medium
-- 🫂 Practicing Problem Solving Skills
-- 👨🏻‍💻 Exploring other opportunities 
+- ✍🏻 Writing structured, reusable, and understandable code
+- 👥 Sharing my learnings in public (Medium, LinkedIn, Twitter)
+- 🫂Contributing to the open source
+
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
 
