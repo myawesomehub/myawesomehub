@@ -4,7 +4,7 @@ Hey, I am **Mohammad Yasir**, a final year student. I am an **iOS Developer** wh
 
 -----
 
-- 📱 Creating apps to the app store
+- 📱 Building Assist iOS App
 - ✍🏻 Writing structured, reusable, and understandable code
 - 👥 Sharing my learnings in public (Medium, LinkedIn, Twitter)
 - 🫂Contributing to the open source
