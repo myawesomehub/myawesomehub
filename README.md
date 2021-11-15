@@ -14,7 +14,7 @@ Hey, I am **Mohammad Yasir**, a final year student. I am an **iOS Developer** wh
 
 
 
-[![Yasir's github activity graph](https://activity-graph.herokuapp.com/graph?username=myawesomehub&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/myawesomehub/github-readme-activity-graph)
+<!-- [![Yasir's github activity graph](https://activity-graph.herokuapp.com/graph?username=myawesomehub&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/myawesomehub/github-readme-activity-graph) -->
 
 
 <h4>You can find me on</h4>
