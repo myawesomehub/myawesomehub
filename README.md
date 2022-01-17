@@ -4,10 +4,10 @@ Hey, I am **Mohammad Yasir**, a final year student. I am an **iOS Developer** wh
 
 -----
 
-- 📱 Building iOS App
+- 📱 Building apps to the app store
+- 🫂 Building and Contributing to the open source
 - ✍🏻 Writing structured, reusable, and understandable code
 - 👥 Sharing my learnings in public (Medium, LinkedIn, Twitter)
-- 🫂 Building and Contributing to the open source
 
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
