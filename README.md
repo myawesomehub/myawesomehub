@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1>
 
-Hey, I am **Mohammad Yasir**, a final year student. I am an **iOS Developer** who design and develop apps in swift.
+I am **Yasir**, a final year student. I am an **iOS Developer** who design and develop apps in swift.
 
 -----
 
