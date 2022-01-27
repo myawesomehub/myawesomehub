@@ -1,13 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1>
 
-I am **Yasir**, a final year student. I am an **iOS Developer** who design and develop apps in swift.
+I am **Yasir**, I am making life simplier in open source by building [AppLoby](https://github.com/AppLoby)
 
 -----
 
-- 📱 Building apps to the app store
-- 🫂 Building and Contributing to the open source
-- ✍🏻 Writing structured, reusable, and understandable code
-- 👥 Sharing my learnings in public (Medium, LinkedIn, Twitter)
+- 💻 Builiding a community of open source to help beginners and developers : [AppLoby](https://github.com/AppLoby)
+- 📱 Building iOS apps to the app store 
 
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
