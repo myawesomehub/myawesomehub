@@ -1,10 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1>
 
-I am **Yasir**, I am making life simplier in open source by building [AppLobby](https://github.com/App-Lobby)
+I am **Yasir**, I an under grad and iOS developer
 
 -----
 
-- 💻 Builiding a community of open source to help beginners and developers : [AppLobby](https://github.com/App-Lobby)
 - 📱 Building iOS apps to the app store 
 
 
