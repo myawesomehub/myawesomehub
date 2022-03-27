@@ -1,10 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1>
 
-I am **Yasir**, I an undergrad and iOS developer
+Making life simpler in open source. Exploring iOS development and computer science fundamentals.
 
 -----
 
-- 📱 Building iOS apps to the app store 
+- Simplifying open source
+- Publishing open source library in swift
+- Building iOS apps to the app store 
 
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
