@@ -7,9 +7,10 @@ Making life simpler in open source. Exploring iOS development and computer scien
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mohdYasir03)
 
 -----
-- Simplifying open source
-- Publishing open source library in swift
-- Building iOS apps to the app store 
+- 📖 Simplifying open source, by building "Lobby"
+- 🛠 Writing open source libraries and contributing to swift stuffs
+- 📱 Building iOS apps to the app store 
+- 📚 Learning computer science fundamentals
 
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
