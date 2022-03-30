@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1>
 
-Making life simpler in open source. Exploring iOS development and computer science fundamentals.
+Mostly involved in open source. Exploring iOS development and computer science fundamentals.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/my-pro-file/)
 [![Medium Badge](https://img.shields.io/badge/Medium-3b5998?style=flat-square&logo=medium&logoColor=white)](https://mdcode2021.medium.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mohdYasir03)
 
 -----
-- 📖 Simplifying open source 
+- 📖 Mostly open source 
 - 🛠 Writing open source libraries and contributing
 - 📱 Building apps to the app store 
 - 📚 Learning computer science fundamentals
