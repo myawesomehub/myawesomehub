@@ -8,8 +8,8 @@ Making life simpler in open source. Exploring iOS development and computer scien
 
 -----
 - 📖 Simplifying open source 
-- 🛠 Writing open source libraries and contributing to swift stuffs
-- 📱 Building iOS apps to the app store 
+- 🛠 Writing open source libraries and contributing
+- 📱 Building apps to the app store 
 - 📚 Learning computer science fundamentals
 
 
