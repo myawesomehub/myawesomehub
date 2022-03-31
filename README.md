@@ -15,7 +15,5 @@ Mostly involved in open source. Exploring iOS development and computer science f
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
 
-<!-- [![Yasir's github activity graph](https://activity-graph.herokuapp.com/graph?username=myawesomehub&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/myawesomehub/github-readme-activity-graph) -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myawesomehub&label=Profile%20views&color=0e75b6&style=flat" alt="myawesomehub" /> </p>
  
