@@ -7,7 +7,7 @@ Mostly involved in open source. Exploring iOS development and computer science f
 [![Medium Badge](https://img.shields.io/badge/Medium-3b5998?style=flat-square&logo=medium&logoColor=white)](https://mdcode2021.medium.com/)
 
 -----
-- 📖 Mostly open source 
+- 📖 Mostly open source stuffs 
 - 🛠 Writing open source libraries and contributing
 - 📱 Building apps to the app store 
 - 📚 Learning computer science fundamentals
