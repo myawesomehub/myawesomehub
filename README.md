@@ -8,7 +8,7 @@ Mostly involved in open source. Exploring iOS development and computer science f
 
 -----
 
-- 📖 Mostly open source stuffs 
+- 📖 Mostly open source stuff
 - 🛠 Writing ibraries and contributing in open source
 - 📱 Building apps to the app store 
 - 📚 Learning computer science fundamentals
