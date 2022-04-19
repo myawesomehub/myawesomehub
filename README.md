@@ -10,7 +10,7 @@ I am about to **graduate** in July 2022. I am creating **open source** projects,
 
 - 📖 Exploring computer science fundamentals.
 - 🛠 Maintaining open source organisation at GitHub. ([AppLobby](https://github.com/App-Lobby))
-- 📚 Created "[Extended](https://github.com/App-Lobby/Extended)" library and "[Trash](https://github.com/App-Lobby/Trash)" iOS app. (both are open source)
+- 📚 Created "[Extended](https://github.com/App-Lobby/Extended)" library and "[Trash](https://github.com/App-Lobby/Trash)" iOS app.
 - 📝 Writing articles on medium occasionally.
 - 📱 Contributing to random open source projects.
 
