@@ -14,7 +14,7 @@ I am about to **graduate** in July 2022. I am creating **open source** projects,
 - 📝 Writing articles on medium occasionally.
 - 🛠 Find my practice and learning projects here at [AppLobby](https://github.com/App-Lobby)
 
-![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
+<!-- ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myawesomehub&label=Profile%20views&color=0e75b6&style=flat" alt="myawesomehub" /> </p>
  
