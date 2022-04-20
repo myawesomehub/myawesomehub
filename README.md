@@ -10,7 +10,7 @@ I am about to **graduate** in July 2022. I am creating **open source** projects,
 
 - 📚 Created "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://github.com/App-Lobby/Trash)" iOS app.
 - 📖 Exploring computer science fundamentals.
-- 📱 Contributing to random open source projects. [List](https://github.com/stars/myawesomehub/lists/contributed)
+- 📱 Contributing to random open source projects. Such as: [List](https://github.com/stars/myawesomehub/lists/contributed)
 - 📝 Writing articles on medium occasionally.
 - 🛠 Find my practice and learning projects here at. ([AppLobby](https://github.com/App-Lobby))
 
