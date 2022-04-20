@@ -8,10 +8,10 @@ I am about to **graduate** in July 2022. I am creating **open source** projects,
 
 -----
 
-- 📖 Exploring computer science fundamentals.
 - 📚 Created "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://github.com/App-Lobby/Trash)" iOS app.
+- 📖 Exploring computer science fundamentals.
+- 📱 Contributing to random open source projects. [List](https://github.com/stars/myawesomehub/lists/contributed)
 - 📝 Writing articles on medium occasionally.
-- 📱 Contributing to random open source projects.
 - 🛠 Find my practice and learning projects here at. ([AppLobby](https://github.com/App-Lobby))
 
 ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub)
