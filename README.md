@@ -8,11 +8,11 @@ I am about to **graduate** in July 2022. I am creating **open source** projects,
 
 -----
 
+- 📝 Exploring iOS development and core blockchain development
 - 📚 Creating "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://apps.apple.com/us/app/trash/id1618653423)" iOS app.
-- 📖 Exploring computer science fundamentals.
-- 📱 Contributing to random open source projects. Such as: [List](https://github.com/stars/myawesomehub/lists/contributed)
-- 📝 Writing articles on medium occasionally.
-- 🛠 Find my practice and learning projects here at [AppLobby](https://github.com/App-Lobby).
+- 📱 Contributing to open source projects. Such as: [Swift Related](https://github.com/stars/myawesomehub/lists/contributed)
+- 📖 Learning computer science fundamentals.
+- 🛠 Find my practice and older projects here at [AppLobby](https://github.com/App-Lobby).
 
 <!-- ![Mohammad Yasir's github stats](https://github-readme-stats.vercel.app/api?username=myawesomehub) -->
 
