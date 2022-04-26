@@ -1,6 +1,6 @@
 # Mohammad Yasir
 
-I am about to **graduate** in July 2022. I am creating **open source** projects, libraries and apps to the app store.
+I am about to **graduate** in July 2022. I am creating **open source** projects related to iOS development.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mohdYasir03)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/my-pro-file/)
