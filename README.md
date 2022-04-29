@@ -1,12 +1,19 @@
 # Mohammad Yasir
 
-I am **graduating** in July 2022. I am creating **open source** projects related to iOS development.
+I am **graduating** in July 2022. I am creating **open source** projects related to iOS & swift.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mohdYasir03)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/my-pro-file/)
 [![Medium Badge](https://img.shields.io/badge/Medium-3b5998?style=flat-square&logo=medium&logoColor=white)](https://mdcode2021.medium.com/)
 
 -----
+
+<!-- **My Works:**
+
+- Created open source swift library called "[Extended](https://github.com/myawesomehub/Extended)"
+- Contributed on swift related projects such as: [Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI), 
+
+asdf -->
 
 - 📝 Exploring iOS development and core blockchain development
 - 📚 Creating "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://apps.apple.com/us/app/trash/id1618653423)" iOS app.
