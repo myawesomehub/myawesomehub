@@ -1,6 +1,6 @@
 # Mohammad Yasir
 
-I am **graduating** in July 2022. I am creating **open source** projects related to iOS & swift.
+I am an **iOS developer** and exploring **open source** stuffs. Open for **full-time SDE** opportunities. 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mohdYasir03)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/my-pro-file/)
@@ -8,18 +8,12 @@ I am **graduating** in July 2022. I am creating **open source** projects related
 
 -----
 
-<!-- **My Works:**
-
-- Created open source swift library called "[Extended](https://github.com/myawesomehub/Extended)"
-- Contributed on swift related projects such as: [Grocy-SwiftUI](https://github.com/supergeorg/Grocy-SwiftUI), 
-
-asdf -->
-
-- 📝 Exploring iOS development and core blockchain development
-- 📚 Creating "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://apps.apple.com/us/app/trash/id1618653423)" iOS app.
+- 📝 Exploring iOS development and swift
+- 📚 Creating "[Upstream](https://github.com/myawesomehub/Upstream)", "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://apps.apple.com/us/app/trash/id1618653423)" iOS app.
 - 📱 Contributing to open source projects. Such as: [List](https://github.com/stars/myawesomehub/lists/contributed)
-- 📖 Learning computer science fundamentals.
+- 📖 Learning typescript and solidity
 - 🛠 Find my practice and older projects here at [AppLobby](https://github.com/App-Lobby).
+- 📧 Reach out to me at mdcode2021@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myawesomehub&label=Profile%20views&color=0e75b6&style=flat" alt="myawesomehub" /> </p>
  
