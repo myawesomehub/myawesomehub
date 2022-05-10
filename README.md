@@ -11,7 +11,7 @@ I am an **iOS developer** and exploring **open source** stuffs. Open for **full-
 - 📝 Exploring iOS development and swift
 - 📚 Creating "[Upstream](https://github.com/myawesomehub/Upstream)", "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://apps.apple.com/us/app/trash/id1618653423)" iOS app.
 - 📱 Contributing to open source projects. Such as: [List](https://github.com/stars/myawesomehub/lists/contributed)
-- 📖 Learning typescript and solidity
+- 📖 Learning to create smart contracts with solidity
 - 🛠 Find my practice and older projects here at [AppLobby](https://github.com/App-Lobby).
 - 📧 Reach out to me at mdcode2021@gmail.com
 
