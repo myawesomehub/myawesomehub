@@ -1,6 +1,6 @@
 # Mohammad Yasir
 
-I am an **iOS developer** and exploring **open source** stuffs. Open for **full-time SDE** opportunities. 
+I am an **iOS developer** and exploring **open source** stuffs. Open for **iOS** related work opportunities. 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mohdYasir03)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/my-pro-file/)
@@ -11,7 +11,6 @@ I am an **iOS developer** and exploring **open source** stuffs. Open for **full-
 - 📝 Exploring iOS development and swift
 - 📚 Creating "[Upstream](https://github.com/myawesomehub/Upstream)", "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://apps.apple.com/us/app/trash/id1618653423)" iOS app.
 - 📱 Contributing to open source projects. Such as: [List](https://github.com/stars/myawesomehub/lists/contributed)
-- 📖 Learning to create smart contracts with solidity
 - 🛠 Find my practice and older projects here at [AppLobby](https://github.com/App-Lobby).
 - 📧 Reach out to me at mdcode2021@gmail.com
 
