@@ -8,10 +8,8 @@ I am an **iOS developer** and creating **open source** stuffs. Open for opportun
 
 -----
 
-- 📝 Exploring iOS development and swift
+- 📝 Exploring iOS development and swiftUI
 - 📚 Creating "[Upstream](https://github.com/myawesomehub/Upstream)", "[Extended](https://github.com/myawesomehub/Extended)" library and "[Trash](https://apps.apple.com/us/app/trash/id1618653423)" iOS app.
-- 📱 Contributing to open source projects. Such as: [List](https://github.com/stars/myawesomehub/lists/contributed)
-- 🛠 Find my practice and older projects here at [AppLobby](https://github.com/App-Lobby).
 - 📧 Reach out to me at mdcode2021@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myawesomehub&label=Profile%20views&color=0e75b6&style=flat" alt="myawesomehub" /> </p>
