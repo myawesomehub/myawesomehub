@@ -1,3 +1,3 @@
-I am open to work. Let me know if you want to collaborate! 
+I am an iOS developer who makes open-source contributions and creates apps.
 
 Reach out to me [@statoways](https://x.com/statoways)
